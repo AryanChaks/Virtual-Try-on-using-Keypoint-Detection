@@ -1,0 +1,10 @@
+DATASET_DIR = 'datasets'
+INFEREENCE_DIR = 'datasets/inference'
+
+IMAGE_DIR = INFEREENCE_DIR + '/image'
+OPENPOSE_IMAGE_DIR = INFEREENCE_DIR + '/openpose-img'
+OPENPOSE_JSON_DIR = INFEREENCE_DIR + '/openpose-json'
+SEGMENTATION_IMAGE_DIR = INFEREENCE_DIR + '/image-parse'
+CLOTH_DIR = INFEREENCE_DIR + '/cloth'
+
+FINAL_OUTPUT_DIR = INFEREENCE_DIR + '/results'
